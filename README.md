@@ -22,5 +22,7 @@
     <h3>Project Completion:</h3>
     <p>Feel free to check out the complete project on my GitHub repository!</p>
     <p>Link: <a href="https://github.com/elfeenah/Building-a-CNN-to-Classify-Handwritten-Characters/edit/main/README.md">https://github.com/elfeenah/Building-a-CNN-to-Classify-Handwritten-Characters/edit/main/README.md</a></p>
+     <h3>Contributions:</h3>
+    <p>Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. Let's collaborate and make this project even better together!</p>
 </body>
 </html>
