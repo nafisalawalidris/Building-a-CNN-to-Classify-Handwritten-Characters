@@ -18,6 +18,12 @@ A company providing ancestry search services needs to process handwritten docume
 - Image Recognition
 - Data Science
 
+### Here's the link to the NIST Special Database 19, which contains a large collection of handwritten characters:
+
+[NIST Special Database 19](https://www.nist.gov/srd/nist-special-database-19)
+
+You can visit the provided link to access the dataset and find more information about it on the NIST website.
+
 ### Project Completion:
 
 Feel free to check out the complete project on my GitHub repository!
